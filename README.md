@@ -1,6 +1,6 @@
 # Detection and evolution of repetitive proteins
 
-Online seminar by the EMBL-EBI training on 28th June 2018:
+Online seminar by the EMBL-EBI training on 27th June 2018:
 
 https://www.ebi.ac.uk/training/online/course/detection-and-evolution-repetitive-proteins
 
