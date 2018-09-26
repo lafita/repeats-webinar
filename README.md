@@ -50,6 +50,6 @@ python msa_to_matrix.py
 5. Plot the matrix and the autocorrelation vector:
 
 ```
-R dup_pattern_plots.R
+Rscipt dup_pattern_plots.R
 ```
 
